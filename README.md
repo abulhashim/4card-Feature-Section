@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/4card-feature-section-SNfzcazqP_)
-- Live Site URL: [abulhashim.github.io/Stats-preview-card](https://abulhashim.github.io/4card-Feature-Section/)
+- Solution URL: [frontendmentor.io/solutions/4card-feature-section-SNfzcazqP\_](https://www.frontendmentor.io/solutions/4card-feature-section-SNfzcazqP_)
+- Live Site URL: [abulhashim.github.io/4card-Feature-Section/](https://abulhashim.github.io/4card-Feature-Section/)
 
 ## My process
 
